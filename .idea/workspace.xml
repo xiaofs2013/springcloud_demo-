@@ -1,0 +1,1271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="45fbd56d-8ef0-42f4-bdd2-a21aa7fd7acd" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/springcould_service/target/" />
+    <ignored path="$PROJECT_DIR$/springcloud_provider/target/" />
+    <ignored path="$PROJECT_DIR$/springcould_consumer/target/" />
+    <ignored path="$PROJECT_DIR$/springcloud_provider2/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/springcloud_provider/src/main/java/com/kgc/springcloud/springcloud_provider/controller/StudentController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="600">
+              <caret line="20" selection-start-line="20" selection-end-line="20" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/springcould_consumer/src/main/java/com/kgc/springcould/springcould_consumer/controller/TestController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-300">
+              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/springcloud_provider/src/main/java/com/kgc/springcloud/springcloud_provider/controller/DistrictController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="442">
+              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/springcould_consumer/src/main/java/com/kgc/springcould/springcould_consumer/SpringcouldConsumerApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="480">
+              <caret line="26" column="30" selection-start-line="26" selection-start-column="30" selection-end-line="26" selection-end-column="30" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/springcloud_provider/src/main/java/com/kgc/springcloud/springcloud_provider/SpringcloudProviderApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="9" column="22" lean-forward="true" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#637#638#0" expanded="true" />
+                <element signature="e#718#719#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/springcloud_provider/src/main/java/com/kgc/springcloud/springcloud_provider/mapper/HouseMapper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/springcloud_provider/src/main/java/com/kgc/springcloud/springcloud_provider/mapper/UsersMapper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/springcloud_provider2/src/main/java/com/kgc/springcloud/springcloud_provider/SpringcloudProviderApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/springcloud_provider2/src/main/java/com/kgc/springcloud/springcloud_provider/controller/StudentController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="14" column="34" lean-forward="true" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/springcould_consumer/src/main/java/com/kgc/springcould/springcould_consumer/service/TestService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="720">
+              <caret line="24" column="40" selection-start-line="24" selection-start-column="30" selection-end-line="24" selection-end-column="40" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="mbg" />
+        <option value="TestMbg" />
+        <option value="sqlMapConfig" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>ribbon</find>
+      <find>Eureka</find>
+      <find>restTemplate</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/springcould_service/src/main/java/com/kgc/springcould/springcould_service/SpringcouldServiceApplication.java" />
+        <option value="$PROJECT_DIR$/springcould_service/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/springcloud_provider/src/main/java/com/kgc/springcloud/springcloud_provider/pojo/Student.java" />
+        <option value="$PROJECT_DIR$/springcould_consumer/src/main/java/com/kgc/springcould/springcould_consumer/controller/Student.java" />
+        <option value="$APPLICATION_HOME_DIR$/plugins/spy-js/server/node_modules/multi-stage-sourcemap/.idea/workspace.xml" />
+        <option value="$PROJECT_DIR$/springcould_consumer/src/main/java/com/kgc/springcould/springcould_consumer/utils/GlobalConfig.java" />
+        <option value="$PROJECT_DIR$/springcloud_provider/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/springcloud_provider/pom.xml" />
+        <option value="$PROJECT_DIR$/springcloud_provider/mbg.xml" />
+        <option value="$PROJECT_DIR$/springcloud_provider/src/test/java/com/kgc/springcloud/springcloud_provider/TestMbg.java" />
+        <option value="$PROJECT_DIR$/springcloud_provider/src/main/java/com/kgc/springcloud/springcloud_provider/pojo/District.java" />
+        <option value="$PROJECT_DIR$/springcloud_provider/src/main/java/com/kgc/springcloud/springcloud_provider/pojo/House.java" />
+        <option value="$PROJECT_DIR$/springcloud_provider/src/main/java/com/kgc/springcloud/springcloud_provider/pojo/Street.java" />
+        <option value="$PROJECT_DIR$/springcloud_provider/src/main/java/com/kgc/springcloud/springcloud_provider/pojo/Type.java" />
+        <option value="$PROJECT_DIR$/springcloud_provider/src/main/java/com/kgc/springcloud/springcloud_provider/pojo/Users.java" />
+        <option value="$PROJECT_DIR$/springcloud_provider/src/main/java/com/kgc/springcloud/springcloud_provider/controller/DistrictController.java" />
+        <option value="$PROJECT_DIR$/springcloud_provider/src/main/resources/mybatis/sqlMapConfig.xml" />
+        <option value="$PROJECT_DIR$/springcloud_provider2/pom.xml" />
+        <option value="$PROJECT_DIR$/springcloud_provider2/src/main/java/com/kgc/springcloud/springcloud_provider/controller/StudentController.java" />
+        <option value="$PROJECT_DIR$/springcloud_provider2/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/springcould_consumer/src/main/webapp/index.jsp" />
+        <option value="$PROJECT_DIR$/springcould_consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/springcould_consumer/src/main/java/com/kgc/springcould/springcould_consumer/SpringcouldConsumerApplication.java" />
+        <option value="$PROJECT_DIR$/springcould_consumer/src/main/java/com/kgc/springcould/springcould_consumer/pojo/Student.java" />
+        <option value="$PROJECT_DIR$/springcould_consumer/src/main/java/com/kgc/springcould/springcould_consumer/service/TestService.java" />
+        <option value="$PROJECT_DIR$/springcould_consumer/src/main/java/com/kgc/springcould/springcould_consumer/utils/HystrixFallbackFactory.java" />
+        <option value="$PROJECT_DIR$/springcloud_provider/src/main/java/com/kgc/springcloud/springcloud_provider/SpringcloudProviderApplication.java" />
+        <option value="$PROJECT_DIR$/springcould_consumer/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/springcould_consumer/src/main/java/com/kgc/springcould/springcould_consumer/controller/TestController.java" />
+        <option value="$PROJECT_DIR$/springcloud_provider/src/main/java/com/kgc/springcloud/springcloud_provider/controller/StudentController.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="springcould_consumer" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="springcould_consumer" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="springcould_consumer" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="557" />
+    <option name="y" value="127" />
+    <option name="width" value="1766" />
+    <option name="height" value="840" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="springcloud_demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloud_demo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springcloud_demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloud_demo" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud_provider" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springcloud_demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloud_demo" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud_provider" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springcloud_demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloud_demo" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud_provider" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springcloud_demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloud_demo" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud_provider" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springcloud_demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloud_demo" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud_provider" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springcloud_demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloud_demo" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud_provider" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="kgc" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springcloud_demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloud_demo" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud_provider" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="kgc" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springcloud_demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloud_demo" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud_provider" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="kgc" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud_provider" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springcloud_demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloud_demo" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud_provider" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="kgc" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud_provider" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springcloud_demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloud_demo" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud_provider" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="kgc" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud_provider" type="462c0819:PsiDirectoryNode" />
+              <item name="mapper" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springcloud_demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloud_demo" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud_provider" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springcloud_demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloud_demo" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud_provider2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springcloud_demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloud_demo" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud_provider2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springcloud_demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloud_demo" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud_provider2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springcloud_demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloud_demo" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud_provider2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springcloud_demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloud_demo" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud_provider2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springcloud_demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloud_demo" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud_provider2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="kgc" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springcloud_demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloud_demo" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud_provider2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="kgc" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springcloud_demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloud_demo" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud_provider2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="kgc" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud_provider" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springcloud_demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloud_demo" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud_provider2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="kgc" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud_provider" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springcloud_demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloud_demo" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud_provider2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="kgc" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud_provider" type="462c0819:PsiDirectoryNode" />
+              <item name="mapper" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springcloud_demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloud_demo" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud_provider2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springcloud_demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloud_demo" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud_provider2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="mapper" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springcloud_demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloud_demo" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud_provider2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="mybatis" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springcloud_demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloud_demo" type="462c0819:PsiDirectoryNode" />
+              <item name="springcould_consumer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springcloud_demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloud_demo" type="462c0819:PsiDirectoryNode" />
+              <item name="springcould_consumer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springcloud_demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloud_demo" type="462c0819:PsiDirectoryNode" />
+              <item name="springcould_consumer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springcloud_demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloud_demo" type="462c0819:PsiDirectoryNode" />
+              <item name="springcould_consumer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springcloud_demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloud_demo" type="462c0819:PsiDirectoryNode" />
+              <item name="springcould_consumer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springcloud_demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloud_demo" type="462c0819:PsiDirectoryNode" />
+              <item name="springcould_consumer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="kgc" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springcloud_demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloud_demo" type="462c0819:PsiDirectoryNode" />
+              <item name="springcould_consumer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="kgc" type="462c0819:PsiDirectoryNode" />
+              <item name="springcould" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springcloud_demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloud_demo" type="462c0819:PsiDirectoryNode" />
+              <item name="springcould_consumer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="kgc" type="462c0819:PsiDirectoryNode" />
+              <item name="springcould" type="462c0819:PsiDirectoryNode" />
+              <item name="springcould_consumer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springcloud_demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloud_demo" type="462c0819:PsiDirectoryNode" />
+              <item name="springcould_consumer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="kgc" type="462c0819:PsiDirectoryNode" />
+              <item name="springcould" type="462c0819:PsiDirectoryNode" />
+              <item name="springcould_consumer" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springcloud_demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloud_demo" type="462c0819:PsiDirectoryNode" />
+              <item name="springcould_consumer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="kgc" type="462c0819:PsiDirectoryNode" />
+              <item name="springcould" type="462c0819:PsiDirectoryNode" />
+              <item name="springcould_consumer" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springcloud_demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloud_demo" type="462c0819:PsiDirectoryNode" />
+              <item name="springcould_consumer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springcloud_demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloud_demo" type="462c0819:PsiDirectoryNode" />
+              <item name="springcould_service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springcloud_demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloud_demo" type="462c0819:PsiDirectoryNode" />
+              <item name="springcould_service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springcloud_demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloud_demo" type="462c0819:PsiDirectoryNode" />
+              <item name="springcould_service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springcloud_demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloud_demo" type="462c0819:PsiDirectoryNode" />
+              <item name="springcould_service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springcloud_demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloud_demo" type="462c0819:PsiDirectoryNode" />
+              <item name="springcould_service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springcloud_demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloud_demo" type="462c0819:PsiDirectoryNode" />
+              <item name="springcould_service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="kgc" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springcloud_demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloud_demo" type="462c0819:PsiDirectoryNode" />
+              <item name="springcould_service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="kgc" type="462c0819:PsiDirectoryNode" />
+              <item name="springcould" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springcloud_demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloud_demo" type="462c0819:PsiDirectoryNode" />
+              <item name="springcould_service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="kgc" type="462c0819:PsiDirectoryNode" />
+              <item name="springcould" type="462c0819:PsiDirectoryNode" />
+              <item name="springcould_service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springcloud_demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloud_demo" type="462c0819:PsiDirectoryNode" />
+              <item name="springcould_service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springcloud_demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloud_demo" type="462c0819:PsiDirectoryNode" />
+              <item name="springcould_service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/springcloud_provider2" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.kgc.springcould.springcould_consumer" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\IDEAPROJECT\springcloud_demo" />
+      <recent name="D:\IDEAPROJECT\springcloud_demo\springcould_consumer\src\main\webapp" />
+      <recent name="D:\IDEAPROJECT\springcloud_demo\springcould_consumer\src\main\java\com\kgc\springcould\springcould_consumer\utils" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.kgc.springcould.springcould_consumer.controller" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.SpringcloudProviderApplication (1)">
+    <configuration name="TestMbg" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springcloud_provider" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kgc.springcloud.springcloud_provider.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.kgc.springcloud.springcloud_provider" />
+      <option name="MAIN_CLASS_NAME" value="com.kgc.springcloud.springcloud_provider.TestMbg" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestMbg.create" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springcloud_provider" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kgc.springcloud.springcloud_provider.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.kgc.springcloud.springcloud_provider" />
+      <option name="MAIN_CLASS_NAME" value="com.kgc.springcloud.springcloud_provider.TestMbg" />
+      <option name="METHOD_NAME" value="create" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringcloudProviderApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="springcloud_provider2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kgc.springcloud.springcloud_provider.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.kgc.springcloud.springcloud_provider.SpringcloudProviderApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringcloudProviderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springcloud_provider" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.kgc.springcloud.springcloud_provider.SpringcloudProviderApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringcouldConsumerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springcould_consumer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.kgc.springcould.springcould_consumer.SpringcouldConsumerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringcouldServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springcould_service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.kgc.springcould.springcould_service.SpringcouldServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.SpringcloudProviderApplication (1)" />
+        <item itemvalue="JUnit.TestMbg" />
+        <item itemvalue="JUnit.TestMbg.create" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="45fbd56d-8ef0-42f4-bdd2-a21aa7fd7acd" name="Default Changelist" comment="" />
+      <created>1567395123892</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1567395123892</updated>
+      <workItem from="1567395125351" duration="4702000" />
+      <workItem from="1567406338791" duration="3763000" />
+      <workItem from="1567411066703" duration="8584000" />
+      <workItem from="1567469618261" duration="6821000" />
+      <workItem from="1567493229419" duration="1114000" />
+      <workItem from="1567513532013" duration="2731000" />
+      <workItem from="1567756041289" duration="64000" />
+      <workItem from="1568295209401" duration="4444000" />
+      <workItem from="1568383872079" duration="4477000" />
+      <workItem from="1568397663895" duration="226000" />
+      <workItem from="1568433761460" duration="4270000" />
+      <workItem from="1568863379165" duration="2546000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="TestMbg_create - 2019.09.02 at 18h 22m 26s.xml">
+      <configuration name="TestMbg.create" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestMbg_create - 2019.09.02 at 18h 23m 01s.xml">
+      <configuration name="TestMbg.create" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestMbg - 2019.09.02 at 18h 24m 50s.xml">
+      <configuration name="TestMbg" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="43811000" />
+  </component>
+  <component name="TodoView" selected-index="2">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28379828" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="JRebel" order="3" side_tool="true" />
+      <window_info id="Image Layers" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="UI Designer" order="6" />
+      <window_info id="Favorites" order="7" side_tool="true" />
+      <window_info id="Web" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run Dashboard" order="2" sideWeight="0.49946353" weight="0.64587975" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.6714922" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="7" sideWeight="0.49946353" weight="0.32962137" />
+      <window_info anchor="bottom" id="Spring" order="8" weight="0.32962137" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32962137" />
+      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5005365" side_tool="true" weight="0.85077953" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32962137" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" weight="0.32962137" />
+      <window_info anchor="bottom" id="Database Changes" order="14" />
+      <window_info anchor="bottom" id="Version Control" order="15" />
+      <window_info anchor="bottom" id="JRebel Executor" order="16" />
+      <window_info anchor="bottom" id="JRebel Console" order="17" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.3299356" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" weight="0.3299356" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/spring-beans/5.1.9.RELEASE/spring-beans-5.1.9.RELEASE.jar!/org/springframework/beans/factory/support/ConstructorResolver.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="236">
+          <caret line="495" selection-start-line="495" selection-end-line="495" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud_provider/mvnw">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="116" column="4" selection-start-line="116" selection-start-column="4" selection-end-line="116" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcould_service/mvnw">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1012">
+          <caret line="121" column="23" lean-forward="true" selection-start-line="121" selection-start-column="23" selection-end-line="121" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud_provider/springcloud_provider.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcould_consumer/src/main/java/com/kgc/springcould/springcould_consumer/controller/Student.java" />
+    <entry file="file://$APPLICATION_HOME_DIR$/plugins/spy-js/server/node_modules/multi-stage-sourcemap/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="6" column="41" selection-start-line="6" selection-start-column="41" selection-end-line="6" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud_provider/src/test/java/com/kgc/springcloud/springcloud_provider/SpringcloudProviderApplicationTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud_provider/mbg.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="337">
+          <caret line="15" column="65" selection-start-line="15" selection-start-column="65" selection-end-line="15" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud_provider/src/test/java/com/kgc/springcloud/springcloud_provider/TestMbg.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="14" column="10" lean-forward="true" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud_provider/src/main/java/com/kgc/springcloud/springcloud_provider/pojo/House.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="42" selection-start-line="5" selection-start-column="42" selection-end-line="5" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud_provider/src/main/java/com/kgc/springcloud/springcloud_provider/pojo/Street.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="4" column="43" selection-start-line="4" selection-start-column="43" selection-end-line="4" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud_provider/src/main/java/com/kgc/springcloud/springcloud_provider/pojo/Type.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="4" column="41" selection-start-line="4" selection-start-column="41" selection-end-line="4" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud_provider/src/main/java/com/kgc/springcloud/springcloud_provider/pojo/Users.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="42" selection-start-line="4" selection-start-column="42" selection-end-line="4" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud_provider/src/main/java/com/kgc/springcloud/springcloud_provider/pojo/District.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="23" column="5" lean-forward="true" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcould_consumer/src/main/java/com/kgc/springcould/springcould_consumer/utils/GlobalConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="17" column="71" selection-start-line="17" selection-start-column="68" selection-end-line="17" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud_provider/src/main/resources/mybatis/sqlMapConfig.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="13" column="16" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud_provider2/src/main/java/com/kgc/springcloud/springcloud_provider/mapper/HouseMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud_provider2/src/main/java/com/kgc/springcloud/springcloud_provider/pojo/Type.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcould_consumer/src/main/java/com/kgc/springcould/springcould_consumer/utils/HystrixFallbackFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcould_service/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1075">
+          <caret line="38" column="26" lean-forward="true" selection-start-line="38" selection-start-column="26" selection-end-line="38" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcould_service/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="11" column="81" selection-start-line="11" selection-start-column="75" selection-end-line="11" selection-end-column="81" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcould_consumer/src/main/webapp/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="870">
+          <caret line="29" column="21" selection-start-line="29" selection-start-column="21" selection-end-line="29" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/spring-web/5.1.9.RELEASE/spring-web-5.1.9.RELEASE.jar!/org/springframework/web/client/RestTemplate.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="56" column="13" selection-start-line="56" selection-start-column="13" selection-end-line="56" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud_provider/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="32" column="40" selection-start-line="32" selection-start-column="25" selection-end-line="32" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud_provider2/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="810">
+          <caret line="27" column="46" lean-forward="true" selection-start-line="27" selection-start-column="46" selection-end-line="27" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="690">
+          <caret line="23" column="37" selection-start-line="23" selection-start-column="37" selection-end-line="23" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcould_consumer/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-990">
+          <caret line="33" column="46" lean-forward="true" selection-start-line="33" selection-start-column="46" selection-end-line="33" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcould_consumer/src/main/java/com/kgc/springcould/springcould_consumer/pojo/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="10" column="22" lean-forward="true" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud_provider/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcould_consumer/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="15" column="12" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud_provider2/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud_provider2/src/main/java/com/kgc/springcloud/springcloud_provider/controller/DistrictController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcould_service/src/main/java/com/kgc/springcould/springcould_service/SpringcouldServiceApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud_provider/src/main/java/com/kgc/springcloud/springcloud_provider/mapper/UsersMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud_provider/src/main/java/com/kgc/springcloud/springcloud_provider/mapper/HouseMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud_provider/src/main/java/com/kgc/springcloud/springcloud_provider/controller/DistrictController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud_provider/src/main/java/com/kgc/springcloud/springcloud_provider/controller/StudentController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud_provider/src/main/java/com/kgc/springcloud/springcloud_provider/SpringcloudProviderApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="9" column="22" lean-forward="true" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#637#638#0" expanded="true" />
+            <element signature="e#718#719#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud_provider2/src/main/java/com/kgc/springcloud/springcloud_provider/SpringcloudProviderApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud_provider2/src/main/java/com/kgc/springcloud/springcloud_provider/controller/StudentController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="14" column="34" lean-forward="true" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcould_consumer/src/main/java/com/kgc/springcould/springcould_consumer/service/TestService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="24" column="40" selection-start-line="24" selection-start-column="30" selection-end-line="24" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcould_consumer/src/main/java/com/kgc/springcould/springcould_consumer/SpringcouldConsumerApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="26" column="30" selection-start-line="26" selection-start-column="30" selection-end-line="26" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcould_consumer/src/main/java/com/kgc/springcould/springcould_consumer/controller/TestController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-300">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>springcould_service</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8 (2)</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
